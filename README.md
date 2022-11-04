@@ -1,2 +1,2 @@
 # csv-handler
-takes .csv file output .csv file bassed on some edites
+takes .csv file output .csv file based on some edites
